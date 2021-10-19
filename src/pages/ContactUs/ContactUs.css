@@ -1,0 +1,29 @@
+.main-container {
+  background: #005b88;
+  width: 100%;
+
+  color: #ffff;
+}
+.sub-container {
+  height: 200px;
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn-contact {
+  border: none;
+  transition: 0.3s;
+  padding: 5px 10px;
+}
+.btn-contact:hover {
+  color: white;
+  background: #00aabe;
+}
+@media only screen and (max-width: 688px) {
+  .sub-container {
+    padding: 10px;
+    flex-direction: column;
+  }
+}
