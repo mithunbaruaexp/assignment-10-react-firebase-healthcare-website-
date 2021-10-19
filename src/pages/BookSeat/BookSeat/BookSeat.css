@@ -1,0 +1,59 @@
+.details-container {
+  /* height: 60vh; */
+  background: url("https://i.ibb.co/LgmSvMZ/asset-69.jpg");
+}
+.details-container {
+  /* width: 100%; */
+
+  margin: 0 auto;
+}
+.info-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.myImg > img {
+  width: 450px;
+}
+.myCard {
+  border-left: 4px solid #00b3ca;
+}
+.text-details {
+  padding-left: 15px;
+}
+.title {
+  color: #ff007e;
+}
+.text-color {
+  color: #004365;
+}
+.day {
+  font-size: 30px;
+  font-weight: 600;
+}
+.workingtime {
+  color: #ff007e;
+  font-size: 24px;
+}
+.data-contacts > p {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff007e;
+}
+@media only screen and (max-width: 688px) {
+  .myImg > img {
+    margin: 300px 0 10px 0;
+    width: 300px;
+  }
+  .data-contacts {
+    margin-bottom: 300px;
+  }
+  .data-contacts {
+    font-size: 18px;
+  }
+  .myCard {
+    border: none;
+  }
+}

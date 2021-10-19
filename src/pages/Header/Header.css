@@ -1,0 +1,25 @@
+.header-container {
+  background: black;
+  color: #fff;
+  /* background-position: center center; */
+}
+.seat-head {
+  font-size: 30px;
+  margin: 30px 0;
+}
+.nav-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.nav-logout {
+  border: none;
+  background: #00b3cc;
+  font-size: 14px;
+  color: #fff;
+  padding: 5px 5px;
+  transition: 0.3s;
+}
+.nav-logout:hover {
+  background: #006d95;
+}

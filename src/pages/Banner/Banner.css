@@ -1,0 +1,83 @@
+.top-banner {
+  background: url("https://i.ibb.co/BBRG8N9/asset-67.jpg");
+}
+.banner-container {
+  width: 80%;
+  margin: 0 auto;
+  color: #fff;
+}
+.heading {
+  font-size: 70px;
+  font-weight: 800;
+  line-height: 60px;
+  margin-bottom: 30px;
+  color: #fff;
+}
+.firs-side {
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  padding: 40px 0;
+}
+.first-btn {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  /* border: none; */
+  background-color: #00b3cc;
+  padding: 10px 50px;
+  transition: 0.5s;
+}
+.first-btn:hover {
+  background-color: #1884ac;
+  color: #fff;
+}
+.second-btn:hover {
+  background-color: #1494a5;
+  color: #fff;
+}
+.btns {
+  display: flex;
+}
+.second-btn {
+  transition: 0.3s;
+  margin-left: 10px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  background-color: #006d95;
+  padding: 10px 50px;
+}
+.heading-text {
+  line-height: 1.5em;
+}
+.second-side > img {
+  display: none;
+}
+@media only screen and (max-width: 688px) {
+  .heading {
+    font-size: 18px;
+    line-height: 1.3em;
+    margin: 0;
+  }
+  .heading-text {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.3em;
+  }
+  .btns {
+    display: none;
+  }
+  .second-side > img {
+    display: block;
+    width: 150px;
+    margin-top: 200px;
+  }
+  .banner-container {
+    display: flex;
+  }
+}

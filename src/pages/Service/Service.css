@@ -1,0 +1,17 @@
+.service {
+  text-align: left;
+}
+.service img {
+  width: 100%;
+}
+.book-seat {
+  border: none;
+  background: #00b3cc;
+  color: #fff;
+  padding: 5px 20px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+.book-seat:hover {
+  background: #0087aa;
+}

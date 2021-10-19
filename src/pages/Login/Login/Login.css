@@ -1,0 +1,18 @@
+.google-login,
+.log-in {
+  background: #00b3cc;
+  margin: 20px 10px;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+}
+
+.area-container {
+  height: 50vh;
+  background-size: cover;
+  background: url("https://i.ibb.co/LgmSvMZ/asset-69.jpg");
+}
+.area-container {
+  width: 100%;
+  height: 70vh;
+}

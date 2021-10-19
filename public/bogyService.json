@@ -1,0 +1,116 @@
+{
+    "service":[
+        {
+            "id": "1",
+            "title": "Teeth",
+            "service": "DENTAL SERVICES",
+            "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. ",
+            "img": "https://i.ibb.co/jGr1jfp/asset-16.jpg",
+            "workingTime": {
+                "start": "9:30am",
+                "end": "1:30pm"
+            },
+            "day": "Mon-Wed",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        },
+        {
+            "id": "2",
+            "title": "If you lost yours",
+            "service": "IMPLANTS",
+            "description": "A dental implant is a metal post that replaces the root portion of a missing tooth.",
+            "img": "https://i.ibb.co/b3ctSCm/asset-17.jpg",
+            "workingTime": {
+                "start": "10:30am",
+                "end": "3:30pm"
+            },
+            "day": "Mon-Wed",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        },
+        {
+            "id": "3",
+            "title": "Cosmetic",
+            "service": "DENTISTRY",
+            "description": "The uppercase letters A through T are used for primary teeth and the numbers 1 - 32 are used for permanent teeth.",
+            "img": "https://i.ibb.co/S0V3gQM/asset-18.jpg",
+            "workingTime": {
+                "start": "7:30pm",
+                "end": "11:30pm"
+            },
+            "day": "Mon-Wed",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        },
+        {
+            "id": "4",
+            "title": "The best solution",
+            "service": "DENTAL BRIDGES",
+            "description": "Dental bridges literally bridge the gap created by one or more missing teeth. A bridge is made up of two or more crowns for the teeth on either side of the gap ",
+            "img": "https://i.ibb.co/bLfkbkQ/asset-19.jpg",
+            "workingTime": {
+                "start": "7:30pm",
+                "end": "11:30pm"
+            },
+            "day": "Wed",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        },
+        {
+            "id": "5",
+            "title": "Painless fixes",
+            "service": "CROWNS",
+            "description": "In dentistry, crown refers to the anatomical area of teeth, usually covered by enamel. ",
+            "img": "https://i.ibb.co/QdW8k13/asset-20.jpg",
+            "workingTime": {
+                "start": "8:50pm",
+                "end": "10:10pm"
+            },
+            "day": "Fri",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        },
+        {
+            "id": "6",
+            "title": "Line them all up",
+            "service": "INVISALIGN",
+            "description": "Invisalign buttons are small hooks that attach to the surface of the tooth. ",
+            "img": "https://i.ibb.co/RQBSzjR/asset-21.jpg",
+            "workingTime": {
+                "start": "7:45pm",
+                "end": "10:00pm"
+            },
+            "day": "Mon",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        },
+        {
+            "id": "7",
+            "title": "Porcelain",
+            "service": "VENEERS",
+            "description": "Dental veneers (sometimes called porcelain veneers or dental porcelain laminates) are wafer-thin.",
+            "img": "https://i.ibb.co/ydKnqtR/asset-22.jpg",
+            "workingTime": {
+                "start": "5:00pm",
+                "end": "9:00pm"
+            },
+            "day": "Fri",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        },
+        {
+            "id": "8",
+            "title": "Beautify your smile",
+            "service": "TEETH WHITENING",
+            "description": "Teeth whitening is a simple process. Whitening products contain one of two tooth bleaches (hydrogen peroxide or carbamide peroxide). ",
+            "img": "https://i.ibb.co/k53NsV6/asset-23.jpg",
+            "workingTime": {
+                "start": "7:00pm",
+                "end": "9:00pm"
+            },
+            "day": "Fri-Thu",
+            "contacts": "+0800 2336 7811",
+            "email": "office@dentalcare.com"
+        }
+    ]
+}

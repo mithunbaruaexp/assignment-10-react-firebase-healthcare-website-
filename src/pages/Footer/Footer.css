@@ -1,0 +1,28 @@
+.footer-container {
+  background: url("https://i.ibb.co/6RdrqTV/asset-70.jpg");
+}
+.icon-footer {
+  padding: 10px;
+  background: #004365;
+  color: #fff;
+  margin: 2px;
+  font-size: 24px;
+  border-radius: 50%;
+}
+.footer-seond {
+  margin-top: 400px;
+}
+.footer-third {
+  margin-top: 30px;
+}
+.footer-bootm {
+  background: #004365;
+}
+@media only screen and (max-width: 688px) {
+  .footer-seond {
+    margin-top: 5px;
+  }
+  .icon-footer {
+    margin-bottom: 10px;
+  }
+}

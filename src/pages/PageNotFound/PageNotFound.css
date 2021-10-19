@@ -1,0 +1,19 @@
+.not-Found > img {
+  width: 80%;
+  height: 80vh;
+}
+.btn-notFound {
+  border: none;
+  background: #00a1be;
+  color: white;
+  font-size: 30px;
+  padding: 5px 30px;
+  transition: 0.3s;
+  border-radius: 30px;
+  margin-bottom: 50px;
+}
+.btn-notFound:hover {
+  letter-spacing: 5px;
+  border-radius: 30px;
+  background: rgb(14, 158, 14);
+}

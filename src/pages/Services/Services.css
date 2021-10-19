@@ -1,0 +1,26 @@
+.service-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
+.services {
+  width: 90%;
+  margin: 0 auto;
+}
+.service-head {
+  font-size: 70px;
+  font-weight: bold;
+}
+.span-text {
+  color: #00b3cc;
+}
+/* Make it responsive */
+@media only screen and (max-width: 688px) {
+  .service-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .services > h2 {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+}

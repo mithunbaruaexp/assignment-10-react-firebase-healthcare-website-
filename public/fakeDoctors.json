@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "heading": "Dental Surgeon",
+        "name": "Audrey Button",
+        "details": "Friendly and caring general dentist with 3+ years experience in small family dental practice helping over 3,000 clients with their dental necessities.",
+        "img": "https://i.ibb.co/FHTMyBL/asset-4.jpg"
+    },
+    {
+        "id": 2,
+        "heading": "Dental Surgeon",
+        "name": "Emma Beckett",
+        "details": "Friendly and caring general dentist with 5+ years experience in small family dental practice helping over 9,620 clients with their dental necessities.",
+        "img": "https://i.ibb.co/jGMf3Fc/asset-5.jpg"
+    },
+    {
+        "id": 3,
+        "heading": "Dentist",
+        "name": "Hellen Hill",
+        "details": "Friendly and caring general dentist with 2+ years experience in small family dental practice helping over 692 clients with their dental necessities.",
+        "img": "https://i.ibb.co/r5tTgxj/asset-6.jpg"
+    },
+    {
+        "id": 4,
+        "heading": "Dentist",
+        "name": "Arianna McDonald",
+        "details": "Friendly and caring general dentist with 2+ years experience in small family dental practice helping over 6932 clients with their dental necessities.",
+        "img": "https://i.ibb.co/0hSZYwv/asset-7.jpg"
+    }
+]

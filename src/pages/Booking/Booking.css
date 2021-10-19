@@ -1,0 +1,18 @@
+.booking-container {
+  background: url("https://i.ibb.co/LgmSvMZ/asset-69.jpg");
+}
+.form-field {
+  background: transparent;
+}
+.book-btn {
+  background: #00b3cc;
+  padding: 10px 30px;
+  border: none;
+  color: #fff;
+}
+
+@media only screen and (max-width: 688px) {
+  .img-container > img {
+    margin-bottom: 5px;
+  }
+}
